@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assigment-ui/static/css/main.073c9b0a.css",
+    "main.js": "/Assigment-ui/static/js/main.eab8f091.js",
+    "static/js/787.2440c5ec.chunk.js": "/Assigment-ui/static/js/787.2440c5ec.chunk.js",
+    "index.html": "/Assigment-ui/index.html",
+    "main.073c9b0a.css.map": "/Assigment-ui/static/css/main.073c9b0a.css.map",
+    "main.eab8f091.js.map": "/Assigment-ui/static/js/main.eab8f091.js.map",
+    "787.2440c5ec.chunk.js.map": "/Assigment-ui/static/js/787.2440c5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eab8f091.js"
+  ]
+}
